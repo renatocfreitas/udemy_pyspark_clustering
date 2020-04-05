@@ -1,0 +1,4 @@
+*.pdf
+.ipynb_checkpoints
+nohup.out
+Clustering_Consulting_Project_SOLUTIONS.ipynb
